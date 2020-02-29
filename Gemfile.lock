@@ -14,7 +14,7 @@ GEM
     faraday_middleware (0.13.1)
       faraday (>= 0.7.4, < 1.0)
     multipart-post (2.1.1)
-    rake (10.5.0)
+    rake (13.0.1)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -37,7 +37,7 @@ DEPENDENCIES
   faraday
   faraday_middleware
   heiseirb_api_client!
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
 
 BUNDLED WITH
